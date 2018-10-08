@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+    </style>
+
+    <!-- Style of Heading Text. -->
+    <style name="headingText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">42sp</item>
+        <item name="android:textColor">@color/colorHeading</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- Style of Radio Group.-->
+    <style name="RadioGroupTheme" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <!-- Style of the Questions. -->
+    <style name="TextViewTheme">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/colorTextView</item>
+    </style>
+
+    <!-- Style of the CheckBoxes. -->
+    <style name="checkBoxTheme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <!-- Style of the Submit Button. -->
+    <style name="buttonTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginRight">88dp</item>
+        <item name="android:layout_marginLeft">88dp</item>
+    </style>
+
+    <!-- Style of the Edit Text. -->
+    <style name="editTextTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:hint">Type here</item>
+        <item name="android:inputType">textCapWords</item>
+    </style>
+</resources>

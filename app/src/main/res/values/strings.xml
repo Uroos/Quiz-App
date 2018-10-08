@@ -1,0 +1,45 @@
+<resources>
+    <string name="Heading">General Knowledge</string>
+
+    <string name="app_name">Quiz</string>
+    <string name="question_1">Q1: What is the longest river of the world?</string>
+    <string name="q1_choice_1">Nile</string>
+    <string name="q1_choice_2">Amazon</string>
+    <string name="q1_choice_3">Euphrates</string>
+    <string name="q1_choice_4">Mediterranean</string>
+
+    <string name="question_2">Q2: Horizontal lines that the earth are divided into are called?</string>
+    <string name="q2_choice_1">Longitude</string>
+    <string name="q2_choice_2">Latitude</string>
+    <string name="q2_choice_3">Orbit</string>
+    <string name="q2_choice_4">Ellipse</string>
+
+    <string name="question_3">Q3: On which continent is Argentina located?</string>
+    <string name="q3_choice_1">Asia</string>
+    <string name="q3_choice_2">Africa</string>
+    <string name="q3_choice_3">South America</string>
+    <string name="q3_choice_4">Europe</string>
+
+    <string name="question_4">Q4: The tallest mountain of the world is called</string>
+    <string name="q4_choice_1">K2</string>
+    <string name="q4_choice_2">Alps</string>
+    <string name="q4_choice_3">Kilmanjaro</string>
+    <string name="q4_choice_4">Everest</string>
+
+    <string name="question_5">Q5: What is the position of Earth in the solar system?</string>
+    <string name="q5_choice_1">Sixth</string>
+    <string name="q5_choice_2">First</string>
+    <string name="q5_choice_3">Third</string>
+    <string name="q5_choice_4">Seventh</string>
+
+    <string name="question_6">Q6: Weather is determined by which two factors?</string>
+    <string name="q6_choice_1">Humidity</string>
+    <string name="q6_choice_2">Soil</string>
+    <string name="q6_choice_3">Sun</string>
+    <string name="q6_choice_4">Mountain</string>
+
+    <string name="question_7">Q7: What is name of the largest ocean?</string>
+    <string name="q7_choice_1">Pacific</string>
+
+    <string name="submit">Submit</string>
+</resources>
